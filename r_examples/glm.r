@@ -1,5 +1,5 @@
 # Generalized linear model from data in richness.r
-source("richness.r")
+source("r_examples/richness.r")
 
 # Generalized Linear Model assuming Poisson distribution for count data
 library(lme4)

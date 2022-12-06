@@ -1,9 +1,8 @@
 # Examples of biodiversity measurements using abundance.r
 
-source("abundance.r")
+source("r_examples/abundance.r")
 
-# Using BiodiversityR and vegan
-library(BiodiversityR)
+# Using vegan
 library(vegan)
 
 # Vegan expects a specific format for the abundance table
@@ -20,13 +19,13 @@ for (i in levels(abundance$site)){
   }
 }
 
-# Rank-abundance and plot
+# Rank-abundance plot
 
-# All sites together
+# All types of models (looking at site D7)
+abun_fit <- radfit(abundance_table["D7",])
+plot(abun_fit)
 
-total_rank <- rankabundance(abundance_table)
-plot(total_rank, type = "l")
-
-# Rank abundance for a particular site
-D7_rank <- rankabundance(abundance_table, site, factor = "site", level = "D7")
-plot(rank, type = "l")
+# Log-normal (looking at site D7)
+abun_fit <- rad.lognormal(abundance_table["D7",])
+plot(abun_fit)
+plot(abun_fit)

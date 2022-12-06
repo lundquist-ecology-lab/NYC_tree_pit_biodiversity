@@ -1,6 +1,6 @@
 # Plot the richness data from richness.r
 
-source("richness.r")
+source("r_examples/richness.r")
 
 # Means and standard errors
 library(Rmisc)

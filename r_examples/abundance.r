@@ -1,6 +1,6 @@
 # Abundance of insect from aerial collections
 
-data <- read.csv("../data/aerial_collection.csv", header = TRUE,
+data <- read.csv("data/aerial_collection.csv", header = TRUE,
                 stringsAsFactors = TRUE)
 
 ## Family level

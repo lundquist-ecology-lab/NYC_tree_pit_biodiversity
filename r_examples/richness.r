@@ -1,5 +1,5 @@
 # Read in data
-data <- read.csv("../data/aerial_collection.csv", header = TRUE,
+data <- read.csv("data/aerial_collection.csv", header = TRUE,
                 stringsAsFactors = TRUE)
 
 # Order-level total richness
