@@ -1,0 +1,58 @@
+ , ,Neighborhood, , , 
+"
+Family (Order)","
+D7","
+D8","
+D9","
+D10",Trophic ecology
+Entomobryidae (Collembola),2.5,,,,Saprovore
+Tettigoniidae (Orthoptera),0.5,,0.5,,Plant-feeder/predator
+Aphididae (Hemiptera),**21.5**,1.2,6,3.1,Phloem-feeder
+Cicadellidae (Hemiptera),3,2.4,3.3,2.3,Leaf-feeder
+Coreidae (Hemiptera),,0.6,,,Plant-feeder
+Miridae (Hemiptera),2,4.2,1.6,**13.7**,Plant-feeder
+Psyllidae (Hemiptera),**8**,1.8,**10.9**,,Phloem-feeder
+Thripidae (Thysanoptera),0.5,,,,Plant-feeder
+Anobiidae (Coleoptera),,0.6,,,Woodborer
+Buprestidae (Coleoptera),,0.6,,0.8,Woodborer
+Chrysomelidae (Coleoptera),,,0.5,,Plant-feeder
+Coccinellidae (Coleoptera),0.5,,,2.3,Insectivore
+Hemerobiidae (Neuroptera),,1.2,,0.8,Insectivore
+Braconidae (Hymenoptera),**12.5**,1.2,2.2,2.3,Parasitoid
+Aphelinidae (Hymenoptera),1,6,1.1,4.6,Aphid parasitoid
+Apidae (Hymenoptera),,,0.5,,Pollen-feeder
+Chrysididae (Hymenoptera),,0.6,,,Wasp ectoparasite
+Encyrtidae (Hymenoptera),1,,,,Parasitoid
+Eulophidae (Hymenoptera),1,,,,Parasitoid
+Formicidae (Hymenoptera),6,3,5.4,8.4,Various
+Halictidae (Hymenoptera),,3,2.7,,Pollen-feeder
+Ichneumonidae (Hymenoptera),0.5,1.8,0.5,1.5,Parasitoid
+Mymaridae (Hymenoptera),0.5,,,,Parasitoid
+Sphecidae (Hymenoptera),,0.6,1.1,,Insectivore
+Vespidae (Hymenoptera),,,,0.8,Insectivore
+Lycaenidae (Lepidoptera),,,,0.8,Plant-feeder
+Noctuidae (Lepidoptera),0.5,1.2,1.1,0.8,Leaf-feeder
+Athomyiidae (Diptera),,2.4,,1.5,Plant-feeder
+Aulacigastridae (Diptera),,,,1.5,Plant feeder
+Calliphoridae (Diptera),3,**19.3**,**20.7**,4.6,Saprovore
+Cecidomyiidae (Diptera),,0.6,,,Plant-feeder
+Chamaemyiidae (Diptera),1,0.6,,,Aphid predator
+Chironomidae (Diptera),1.5,1.8,2.2,,Saprovore
+Chloropidae (Diptera),1,1.8,3.3,1.5,Plant-feeding
+Culicidae (Diptera),4.5,,,,Blood-feeding
+Diastatidae (Diptera),,,0.5,0.8,Unknown
+Dolichopodidae (Diptera),5,6,**8.7**,**22.1**,Insectivore
+Drosophilidae (Diptera),0.5,2.4,,0.8,Saprovore
+Faniidae (Diptera),0.5,3.6,1.1,,Saprovore
+Heliomyzidae (Diptera),4,,2.7,1.5,Saprovore
+Lauxaniidae (Diptera),,,0.5,,Saprovore
+Muscidae (Diptera),7,**15.7**,5.4,**9.9**,Saprovore
+Phoridae (Diptera),0.5,1.2,,0.8,Saprovore
+Piophilidae (Diptera),,,0.5,,Saprovore
+Psychodidae (Diptera),,0.6,,,Saprovore
+Sarcophagidae (Diptera),,1.8,2.2,2.3,Saprovore
+Sciaridae (Diptera),3.5,2.4,8.2,6.1,Fungivore
+Stratiomyidae (Diptera),,1.2,,,Saprovore
+Syrphidae (Diptera),3.5,0.6,1.1,0.8,Various
+Ulidiidae (Diptera),2.5,**7.8**,5.4,3.8,Saprovore
+Xylophagidae (Diptera),0.5,,,,Saprovore
